@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Amjad Natouf</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Amjad Natouf  👑</h1>
+<h3 align="center">A passionate frontend developer 💎</h3>
 
 - 🔭 I’m currently working on [Carelyo](https://carelyo.ng/)
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👯 I’m looking to collaborate on **ScandiWeb**
+- 👯 I’m looking to collaborate on **E-commerce**
 
 - 💬 Ask me about **react, vue and mongoDB**
 
