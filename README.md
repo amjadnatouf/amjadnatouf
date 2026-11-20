@@ -1,11 +1,15 @@
 ### Hi, I'm Amjad Natouf 👋
 
-Junior System Developer specializing in **C# / .NET** and **TypeScript / JavaScript**. 
-Recently completed intensive full-stack .NET system development training at Lexicon, focusing on Clean Architecture, REST APIs, relational databases, and collaborative Git workflows.
+**Software Developer | .NET & Full-Stack Development | AI Integration**
 
-- 🔭 **Currently building & refining:** Full-stack web applications in C# (.NET, Blazor, Entity Framework) and TypeScript.
-- 🛠️ **Core Stack:** C#, .NET, ASP.NET Core, Blazor, Entity Framework Core, SQL, TypeScript, JavaScript, React, Git/GitHub.
-- 🤖 **Modern Workflow:** Experienced in pair-programming with AI coding tools (GitHub Copilot, Claude, Cursor) with a strong focus on code review, testing, and maintainability.
-- 🤝 **Collaboration:** Accustomed to agile team development, pull requests, code reviews, and remote workflows.
+I build software solutions that combine solid backend engineering, modern web technologies, and AI-powered automation. Interested in designing scalable applications, integrating intelligent systems, and turning ideas into practical solutions.
 
-📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/amjad-natouf/) | [Email](mailto:na80@hotmail.com)
+- 💻 **Software Development:** C#, .NET, ASP.NET Core, Java, Python, TypeScript, JavaScript, React.
+- 🤖 **AI & Automation:** AI Agents, Dify, Model Context Protocol (MCP), Milvus, LangGraph.
+- 🗄️ **Backend & Data:** REST APIs, Entity Framework Core, PostgreSQL, MySQL, MongoDB, SQL.
+- ☁️ **Tools & Infrastructure:** Azure, Docker, Git, GitHub, CI/CD.
+- 🧪 **Engineering Practices:** Clean Architecture, automated testing, code reviews, Agile development.
+
+**Always learning, building, and exploring better ways to solve engineering challenges.**
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/amjad-natouf/) | [Email](mailto:na80@hotmail.com)
